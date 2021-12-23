@@ -83,7 +83,7 @@ Postman
 [Pp]rivatelink
 psql
 Python
-Redis
+[Rr]edis
 refcard
 reindexing
 Sakila
@@ -116,3 +116,5 @@ Workbench
 Zabbix
 Zipkin
 ZooKeeper
+redli
+stunnel
